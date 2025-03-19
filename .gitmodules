@@ -1,3 +1,3 @@
-[submodule "my-app"]
-	path = my-app
+[submodule "Managers/my-app"]
+	path = Managers/my-app
 	url = https://github.com/EkaterinaPo1805/my-app.git
